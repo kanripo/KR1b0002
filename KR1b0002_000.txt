@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書
-#+DATE: 2015-09-23 09:35:47
+#+DATE: 2015-09-10 22:47:14.331062
+#+PROPERTY: ID KR1b0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB01n0009-000尚書-序.
 <pb:KR1b0002_SBCK_000-1a>¶
 尚書序¶
 (釋文此孔氏所作述尚書起之時代并/叙爲注之由故相承講之今依舊爲音)¶
@@ -77,5 +81,6 @@
 <pb:KR1b0002_SBCK_000-4b>¶
 ¶
 尚書序¶
+#+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB01n0009-000尚書-圖.
 <pb:KR1b0002_SBCK_000-5a>¶
-

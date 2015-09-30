@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書
-#+DATE: 2015-09-23 09:35:47
+#+DATE: 2015-09-10 22:47:14.513200
+#+PROPERTY: ID KR1b0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB01n0009-004尚書-卷第四.
 <pb:KR1b0002_SBCK_004-1a>¶
 監本纂圖重言重意互註尚書卷第四¶
 湯誓第一　商書　孔氏傳¶
@@ -288,4 +292,3 @@
 (亡)仲丁遷于嚻(太戊子去亳嚻/地名嚻五羔反)作仲丁(陳遷都/之義亡)河亶¶
 甲居相(仲丁弟相地名在河北亶丁但/反相息亮反今魏郡有相縣)作河亶甲(亡)祖¶
 乙圯于耿(亶甲子圯於相遷於耿河水所毀曰/圯圯備美反徐扶鄙反馬云毀也)作祖乙(亡)¶
-

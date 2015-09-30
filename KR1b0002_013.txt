@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書
-#+DATE: 2015-09-23 09:35:47
+#+DATE: 2015-09-10 22:47:14.884386
+#+PROPERTY: ID KR1b0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 13
+#+PROPERTY: FILE SB01n0009-013尚書-卷第十三.
 <pb:KR1b0002_SBCK_013-1a>¶
 監本纂圖重言重意互註尚書卷第十三¶
 文侯之命第三十　周書　孔氏傳¶
@@ -113,4 +117,3 @@
 重意(亦尚一人之慶/吕刑一人有慶)¶
 監本纂圖重言重意互註尚書卷十三¶
 <pb:KR1b0002_SBCK_013-6a>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書
-#+DATE: 2015-09-23 09:35:47
+#+DATE: 2015-09-10 22:47:14.434042
+#+PROPERTY: ID KR1b0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB01n0009-002尚書-卷第二.
 <pb:KR1b0002_SBCK_002-1a>¶
 監本纂圖重言重意互註&KR0039;校尚書卷第二¶
 大禹謨第三　虞書　孔氏傳¶
@@ -262,4 +266,3 @@
 (其功不成歌以申戒叢才公反脞倉果反徐音/鎻馬云叢揔也脞小也惰徒卧反墮許規反)帝拜曰俞¶
 往欽哉(拜受其歌戒羣臣自/今以往敬其職事哉)重言(往欽哉三堯典/舜典本篇各一)¶
 監本纂圖重言重意互註&KR0039;校尚書卷第二¶
-

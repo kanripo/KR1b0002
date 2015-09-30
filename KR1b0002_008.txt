@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書
-#+DATE: 2015-09-23 09:35:47
+#+DATE: 2015-09-10 22:47:14.682392
+#+PROPERTY: ID KR1b0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB01n0009-008尚書-卷第八.
 <pb:KR1b0002_SBCK_008-1a>¶
 監本纂圖重言重意互註尚書卷第八¶
 康誥第十一　周書　孔氏傳¶
@@ -348,4 +352,3 @@
 (非敢獨勤而巳惟恭敬奉其幣帛用供待王能求天長命將以/慶王多福必上下勤恤乃與小民受天永命奉如字又芳孔反)¶
 (供音恭徐紀用/反注供待同)重言(祈天永命/重見上文)¶
 監本纂圖重言重意互註尚書卷第八¶
-

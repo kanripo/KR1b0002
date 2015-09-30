@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書
-#+DATE: 2015-09-23 09:35:47
+#+DATE: 2015-09-10 22:47:14.844693
+#+PROPERTY: ID KR1b0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 12
+#+PROPERTY: FILE SB01n0009-012尚書-卷第十二.
 <pb:KR1b0002_SBCK_012-1a>¶
 監本纂圖重言重意互註尚書卷第十二¶
 畢命第二十六　周書　孔氏傳¶
@@ -265,4 +269,3 @@
 王嘉師監于兹祥刑(有&KR0022;有土受王之善衆而治之者/視於此善刑欲其勤而法之爲無)¶
 (疆之/辭)¶
 監本纂圖重言重意互註尚書卷第十二¶
-
